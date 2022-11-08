@@ -1,0 +1,23 @@
+{
+    "name": "elementor-snippets-by-themexplosion",
+    "displayName": "Elementor Snippets by Themexplosion",
+    "description": "Support extension containing useful snippets for developing website using Elementor builder.",
+    "version": "0.0.1",
+    "publisher": "themexplosion",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
