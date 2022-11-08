@@ -41,6 +41,12 @@ Here is a list of elementor widgets that this plugin contains.
 | Elementor Control Condition  |    elcondition   |
 | Elementor Dimension Control  |    eldimension   |
 
+## Contribution
+
+If you find any bugs or have any issues/ features suggestions, you can add your issues in the public github repository. We will be happy to integrate your contribution via pull request.
+
+https://github.com/themexplosion/vscode-elementor-snippets
+
 ## Release Notes
 
 Users appreciate release notes as you update your extension.

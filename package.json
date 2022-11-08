@@ -1,23 +1,33 @@
 {
-    "name": "elementor-snippets-by-themexplosion",
-    "displayName": "Elementor Snippets by Themexplosion",
-    "description": "Support extension containing useful snippets for developing website using Elementor builder.",
-    "version": "0.0.1",
-    "publisher": "themexplosion",
-    "icon": "images/icon.png",
-    "engines": {
-        "vscode": "^1.73.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
+  "name": "elementor-snippets-by-themexplosion",
+  "displayName": "Elementor Snippets by Themexplosion",
+  "description": "Support extension containing useful snippets for developing website using Elementor builder.",
+  "version": "1.0.0",
+  "publisher": "themexplosion",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "license": "GPLv3",
+  "categories": [
+    "Snippets"
+  ],
+  "bugs": {
+    "url": "https://github.com/themexplosion/vscode-elementor-snippets/issues",
+    "email": "support@themexplosion.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themexplosion/vscode-elementor-snippets/blob/main/README.md"
+  },
+  "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md",
 
-    "contributes": {
-        "snippets": [
-            {
-                "language": "php",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    }
+  "contributes": {
+    "snippets": [
+      {
+        "language": "php",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
 }
