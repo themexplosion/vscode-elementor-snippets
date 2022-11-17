@@ -429,7 +429,7 @@
 	  "Elementor Dimension Control": {
 		"prefix": "eldimension",
 		"body": [
-		  "\\$this->add_group_control(",
+		  "\\$this->add_control(",
 		  " '${1:id}',",
 		  "   [",
 		  "     'label'      => esc_html__( '${2:Section Label}', '${3:text_domain}' ),",
@@ -441,5 +441,19 @@
 		  "   ]",
 		  " );"
 		],
+	  },
+
+	  "Elementor Box Shadow control": {
+		"prefix": "elboxshadow",
+		"body": [
+		  "\\$this->add_control(",
+		  "		'${1:section_id}',",
+		  "		[ 'label' => esc_html__( '${2:label}', '${3:text-domain}' ),",
+		  "			'type' => \\Elementor\\Controls_Manager::BOX_SHADOW,",
+		  "			'selectors' => [",
+		  "				'{{SELECTOR}}' => 'box-shadow: {{HORIZONTAL}}px {{VERTICAL}}px {{BLUR}}px {{SPREAD}}px {{COLOR}};',",
+		  "			], ]",
+		  "	);"
+		]
 	  }
 }

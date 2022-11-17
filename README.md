@@ -40,6 +40,7 @@ Here is a list of elementor widgets that this plugin contains.
 | Elementor Border Control  |    elborder   |
 | Elementor Control Condition  |    elcondition   |
 | Elementor Dimension Control  |    eldimension   |
+| Elementor Box Shadow Control  |    elboxshadow   |
 
 ## Contribution
 

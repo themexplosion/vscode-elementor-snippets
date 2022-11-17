@@ -2,8 +2,11 @@
 
 All notable changes to the "elementor-snippets-by-themexplosion" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.1]
 
-## [Unreleased]
+- Fixed: Dimension control snippet
+- New: Box Shadow Control
+
+## [1.0.0]
 
 - Initial release
