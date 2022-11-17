@@ -2,11 +2,11 @@
   "name": "elementor-snippets-by-themexplosion",
   "displayName": "Elementor Snippets by Themexplosion",
   "description": "Support extension containing useful snippets for developing website using Elementor builder.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "themexplosion",
   "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.72.0"
   },
   "license": "GPLv3",
   "categories": [
