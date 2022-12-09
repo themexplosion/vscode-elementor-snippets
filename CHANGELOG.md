@@ -2,8 +2,10 @@
 
 All notable changes to the "elementor-snippets-by-themexplosion" extension will be documented in this file.
 
-## [1.0.1]
+## [1.0.2]
+- New: Select 2 control snippet
 
+## [1.0.1]
 - Fixed: Dimension control snippet
 - New: Box Shadow Control
 

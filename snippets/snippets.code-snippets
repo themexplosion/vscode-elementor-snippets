@@ -267,6 +267,26 @@
 		  ");"
 		]
 	  },
+
+	  "Elementor select control 2": {
+		"prefix": "elselect2",
+		"body": [
+		  "\\$this->add_control(",
+		  " '${1:section_id}',",
+		  " [",
+		  "     'label'    => esc_html__( '${2:label}', '${3:textdomain}' ),",
+		  "     'type'     => \\Elementor\\Controls_Manager::SELECT2,",
+		  "     'multiple' => true,",
+		  "     'options'  => [",
+		  "     'title'       => esc_html__( '${4:Title}', '${3:textdomain}' ),",
+		  "         'description' => esc_html__( '${5:Description}', '${3:textdomain}' ),",
+		  "         'button'      => esc_html__( '${6:example}', '${3:textdomain}' ),",
+		  "     ],",
+		  "     'default'  => [ 'title', 'description' ],",
+		  " ]",
+		  ");"
+		],
+	  }
 	
 	  "Elementor URL Control": {
 		"prefix": "elurl",
@@ -455,5 +475,5 @@
 		  "			], ]",
 		  "	);"
 		]
-	  }
+	  },
 }

@@ -29,6 +29,7 @@ Here is a list of elementor widgets that this plugin contains.
 | Elementor DATE_TIME control     |    eldatetime   |
 | Elementor REPEATER control     |    elrepeater   |
 | Elementor SELECT control    |    elselect   |
+| Elementor SELECT2 control    |    elselect2   |
 | Elementor URL Control    |    elurl   |
 | Elementor MEDIA control    |    elmedia   |
 | Elementor Tabs control    |    eltabs   |
