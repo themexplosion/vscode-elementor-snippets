@@ -42,6 +42,7 @@ Here is a list of elementor widgets that this plugin contains.
 | Elementor Control Condition  |    elcondition   |
 | Elementor Dimension Control  |    eldimension   |
 | Elementor Box Shadow Control  |    elboxshadow   |
+| Elementor Slider Control  |    elslider   |
 
 ## Contribution
 
@@ -52,6 +53,20 @@ https://github.com/themexplosion/vscode-elementor-snippets
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
+
+## 1.0.3
+
+- New: Added slider control
+- Enhanced: Text domain text consistency
+
+## 1.0.2
+
+- New: Select 2 Control
+
+### 1.0.1
+
+- Fixed: Dimension Control
+- New: Box Shadow Control
 
 ### 1.0.0
 
